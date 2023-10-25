@@ -1,0 +1,16 @@
+chroma-hnswlib==0.7.3
+chromadb==0.4.12
+Flask==3.0.0
+google-api-core==2.5.0
+google-api-python-client==2.100.0
+google-auth==2.22.0
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+langchain==0.0.299
+langchain-googledrive==0.0.285
+langsmith==0.0.39
+openai==0.28.0
+pydantic==1.10.12
+pydantic_core==2.1.2
+pypdf==3.16.2
+PyPDF2==3.0.1
